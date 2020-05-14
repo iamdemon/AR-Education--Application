@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="arcore_solar_system/app" />
+      <module fileurl="file://$PROJECT_DIR$/arcore_solar_system.iml" filepath="$PROJECT_DIR$/arcore_solar_system.iml" group="arcore_solar_system" />
+    </modules>
+  </component>
+</project>
